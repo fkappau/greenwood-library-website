@@ -32,6 +32,7 @@
  # these file were then pushed to github main
 
  * git push origin main 
+<<<<<<< HEAD
  ![push](./img/7.git_push.png)
 
 
@@ -51,3 +52,6 @@ vim was then use to create a book review file, to give option of adding random t
 ![merge](./img/11.merge.png)
 
 # an update-events section was created 
+=======
+ ![push](./img/7.git_push.png)
+>>>>>>> 5b8d416536a77d938ec09e3efd5c5b127ffc8f07
